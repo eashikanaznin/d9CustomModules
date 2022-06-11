@@ -1,4 +1,0 @@
-administer job_builder configuration:
-  title: 'Administer job_builder configuration'
-  description: 'Optional description.'
-  restrict access: true
